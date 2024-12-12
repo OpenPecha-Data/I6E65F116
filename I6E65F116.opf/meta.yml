@@ -1,0 +1,47 @@
+id: I6E65F116
+ocr_import_info:
+  timestamp: '2024-12-12T06:25:39.869424+00:00'
+  batch_id: batch-65a4
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: OpenPecha
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.13
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-12-12 06:34:38.709181+00:00
+last_modified: 2024-12-12 06:34:38.709187+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG3988
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG3988
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: བསྟན་པའི་རྩ་བ་འདུལ་བརྒྱུད་མཁན་སློབ་ཀྱི་རྣམ་ཐར་དག་སྣང་ཡིད་འཇོའི་ཤེལ་སྒོང་མ་ཎི།
+  languages:
+  - bo
+  author: བྲུ་ཚང་བསྟན་འཛིན་དབང་རྒྱལ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9000692895726425
+  ocr_word_median_confidence_index: 0.96224865
+bases:
+  I1KG4050:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG4050
+      total_pages: 408
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG4050.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.96224865
+      ocr_word_mean_confidence_index: 0.9000692895726425
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
